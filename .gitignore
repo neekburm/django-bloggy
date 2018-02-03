@@ -10,6 +10,7 @@
 .vscode/
 media/
 venv/
+migrations/
 __pycache__
 MANIFEST
 dist/
